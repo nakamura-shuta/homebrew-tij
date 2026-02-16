@@ -1,8 +1,8 @@
 class Tij < Formula
   desc "Text-mode Interface for Jujutsu version control system"
   homepage "https://github.com/nakamura-shuta/tij"
-  url "https://github.com/nakamura-shuta/tij/archive/refs/tags/v0.3.27.tar.gz"
-  sha256 "30246688ec53c37966f602a5b8f60ba0f0b637b721cd2ad69c58c41d9481b9f8"
+  url "https://github.com/nakamura-shuta/tij/archive/refs/tags/v0.3.28.tar.gz"
+  sha256 "c516ba945b1bf8cc1bff3f6c89097b85efcb8b652bb74f2a451fc47d3e1ce20d"
   license "MIT"
 
   depends_on "rust" => :build
